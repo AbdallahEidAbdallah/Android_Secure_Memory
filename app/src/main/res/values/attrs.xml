@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SecureEditText">
+        <attr name="maxBufferLength" format="integer" />
+        <attr name="maskCharacter" format="string" />
+        <attr name="showMask" format="boolean" />
+        <attr name="showToggleButton" format="boolean" />
+        <attr name="allowCopyPaste" format="boolean" />
+        <attr name="autoClearOnPause" format="boolean" />
+        <attr name="hint" format="string" />
+        <attr name="imeOptions" format="enum">
+            <enum name="actionDone" value="6" />
+            <enum name="actionGo" value="2" />
+            <enum name="actionNext" value="5" />
+            <enum name="actionSearch" value="3" />
+            <enum name="actionSend" value="4" />
+        </attr>
+    </declare-styleable>
+</resources>
