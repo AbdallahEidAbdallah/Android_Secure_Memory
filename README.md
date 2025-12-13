@@ -20,6 +20,10 @@ Enterprise-grade memory protection for sensitive data handling in Android applic
 - **Minimal Exposure** - Decrypted data exists <1ms in memory
 - **Locked Memory Pages** - Prevents disk paging
 
+### 🔑 Demo Credentials
+- Username: admin
+- Password: admin
+
 ### XML Usage
 ``` xml
 <com.example.secureauth.SecureEditText
