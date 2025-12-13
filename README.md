@@ -2,6 +2,12 @@
 
 Enterprise-grade memory protection for sensitive data handling in Android applications. Implements defense-in-depth security patterns to prevent memory scraping, forensic recovery, and data leakage attacks.
 
+📖 **Technical Deep Dive (Medium Article)**  
+A detailed explanation of the threat model, memory risks in Android, and how this demo mitigates them:
+
+👉 https://medium.com/@eid662937/securing-android-secrets-why-strings-leak-and-how-to-stop-it-7c51c4d4ff5f
+
+
 ## ✨ Features
 
 ### 🛡️ Memory Security
